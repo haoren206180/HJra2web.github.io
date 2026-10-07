@@ -19,7 +19,7 @@
     "//wyhjres2.bun.sh.cn/music/",
     "//werhd.k0s.cn/music/"
   ],
-  "gameResArchiveUrl": "https://github.com/haoren206180/HJra2web.github.io/releases/download/gameres-v1/full-pack.7z",
+  "gameResArchiveUrl": "https://gh-proxy.com/https://github.com/haoren206180/HJra2web.github.io/releases/download/gameres-v1/full-pack.7z",
   "ladderRulesUrl": "//www.ra2web.com/ladder-rules.html",
   "modSdkUrl": "https://github.com/ra2web/mod-sdk",
   "donateUrl": "//ra2web.com/#donate",
