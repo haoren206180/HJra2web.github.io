@@ -2,8 +2,9 @@
   "serversUrl": "servers.json",
   "discordUrl": "https://qm.qq.com/q/8wt3F0yUbm",
   "autoLoadGameRes": true,
-  "gameresBaseUrl": "//res2.wangerhuoda.cn/",
+  "gameresBaseUrl": "https://haoren206180.github.io/HJra2web.github.io/cdn/",
   "gameresBaseUrls": [
+    "https://haoren206180.github.io/HJra2web.github.io/cdn/",
     "//wyhjres2.bun.sh.cn/",
     "//werhd.k0s.cn/"
   ],
