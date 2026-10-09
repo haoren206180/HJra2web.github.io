@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "format": "ra2web-campaign-mix",
+  "releaseId": "9ca45e24eb53",
+  "minClientVersion": "0.84.0",
+  "resource": {
+    "path": "releases/9ca45e24eb53/campaign-9ca45e24eb53.mix",
+    "size": 28347581,
+    "crc32": 485519126,
+    "sha256": "9ca45e24eb532ea33668740f9055096aefadafd3cccedb25f6a39d5338b0c7b0"
+  }
+}
