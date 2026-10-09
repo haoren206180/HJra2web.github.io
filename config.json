@@ -2,14 +2,17 @@
   "serversUrl": "servers.json",
   "discordUrl": "https://qm.qq.com/q/8wt3F0yUbm",
   "autoLoadGameRes": true,
-  "gameresBaseUrl": "https://haoren206180.github.io/HJra2web.github.io/cdn/",
+  "gameresBaseUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/haoren206180/HJra2web.github.io/main/cdn/",
   "gameresBaseUrls": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/haoren206180/HJra2web.github.io/main/cdn/",
     "https://haoren206180.github.io/HJra2web.github.io/cdn/",
     "//wyhjres2.bun.sh.cn/",
     "//werhd.k0s.cn/"
   ],
-  "campaignBaseUrl": "https://haoren206180.github.io/HJra2web.github.io/cdn/campaign/",
+  "campaignBaseUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/haoren206180/HJra2web.github.io/main/cdn/campaign/",
   "campaignBaseUrls": [
+    "https://gh-proxy.com/https://raw.githubusercontent.com/haoren206180/HJra2web.github.io/main/cdn/campaign/",
+    "https://haoren206180.github.io/HJra2web.github.io/cdn/campaign/",
     "//wyhjres2.bun.sh.cn/campaign/",
     "//werhd.k0s.cn/campaign/"
   ],
